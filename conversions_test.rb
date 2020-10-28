@@ -6,3 +6,4 @@ if answer == 0.0
   puts "Passed!"
 else
   puts "Test failed: got #{answer} instead"
+end
