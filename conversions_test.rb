@@ -7,3 +7,5 @@ if answer == 0.0
 else
   puts "Test failed: got #{answer} instead"
 end
+
+puts "ounces_to_grams, when given 1, returns 28."
